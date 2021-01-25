@@ -1,7 +1,8 @@
 # Shell Data Processing
+curl "https://medium.com/@EmEmbarty/21-very-short-and-addicting-stories-you-can-read-online-a084c5432220" -o data.txt
 
 ## Basic commands to start with in Powershell
-- > blockquote mkdir - create directory
+- mkdir - create directory
 - cd - change directory
 - ni - new item
 - ls - list directory
